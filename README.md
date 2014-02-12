@@ -1,2 +1,1 @@
-bell-media-analytics
-====================
+This is part of a project I did on a past co-op term at Bell. In its current state, it only works on Windows XP (not my choice). It won't actually work if you try to use it, because authentication details + other proprietary Bell Media stuff which is part of this project is not publicly available. I've put this here so potential future employers can see what kind of work I've done in the past.
